@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetD21_5 Pin=R90-1
+Added Pin To Net: NetName=+5V Pin=R90-2
+Added Room: Name=PMSM_Driver

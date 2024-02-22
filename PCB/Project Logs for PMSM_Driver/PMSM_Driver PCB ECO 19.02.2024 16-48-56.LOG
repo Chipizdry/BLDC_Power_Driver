@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R1 Old Footprint=Yageo_RC0805_IPC_C New Footprint=Yageo_RC0805_IPC_A
+Added Room: Name=PMSM_Driver
