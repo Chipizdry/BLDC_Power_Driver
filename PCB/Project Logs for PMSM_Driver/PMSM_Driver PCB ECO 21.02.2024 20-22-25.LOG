@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=+5V Pin=TP91-1
-Removed Member From Class: ClassName=PMSM_Driver Member=TP91
-Added Room: Name=PMSM_Driver

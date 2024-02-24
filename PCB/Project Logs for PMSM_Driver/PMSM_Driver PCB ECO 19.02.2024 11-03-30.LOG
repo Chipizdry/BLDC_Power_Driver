@@ -1,5 +1,0 @@
-Added Component: Designator=R30(Yageo_RC0805_IPC_A)
-Added Pin To Net: NetName=NetD11_1 Pin=R30-1
-Added Pin To Net: NetName=NetR30_2 Pin=R30-2
-Added Member To Class: ClassName=PMSM_Driver Member=Component R30
-Added Room: Name=PMSM_Driver

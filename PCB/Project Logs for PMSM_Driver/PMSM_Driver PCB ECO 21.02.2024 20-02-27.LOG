@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=NetD21_5 Pin=R95-2
-Added Pin To Net: NetName=NetD21_3 Pin=R96-1
-Added Pin To Net: NetName=NetD21_6 Pin=R112-1
-Added Pin To Net: NetName=NetP13_2 Pin=P13-2
-Added Pin To Net: NetName=NetP13_2 Pin=R115-1
-Added Net: Name=NetP13_2
-Added Room: Name=PMSM_Driver
